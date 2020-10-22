@@ -4,3 +4,21 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     }
+
+/* jumbotron style */ 
+.jumbotron {
+    background-color: #222222;
+}
+
+
+.display-4 {
+    font-family: 'Montserrat', sans-serif;
+   font-weight: 900;
+    color: white;
+}
+
+.lead {
+    color: white;
+    letter-spacing: .05em;
+    font-weight: 200;
+}
