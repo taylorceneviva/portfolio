@@ -22,3 +22,9 @@
     letter-spacing: .05em;
     font-weight: 200;
 }
+
+    /* footer & submit button style*/
+.btn {
+    background-color:#222222;
+    border-color: #222222;
+}
