@@ -23,12 +23,13 @@
     font-weight: 200;
 }
 
-/* card style */ 
+    /* card style */ 
 .card-title {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
 }
 
+    /* footer button style */
 .btn {
     background-color: #222222;
     border-color: #222222;
