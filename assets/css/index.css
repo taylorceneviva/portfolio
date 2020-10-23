@@ -22,3 +22,9 @@
     letter-spacing: .05em;
     font-weight: 200;
 }
+
+/* card style */ 
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
