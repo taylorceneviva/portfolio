@@ -28,3 +28,8 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
 }
+
+.btn {
+    background-color: #222222;
+    border-color: #222222;
+}
