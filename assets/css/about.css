@@ -1,13 +1,19 @@
+footer,
+.navbar,
+.section-full{
+    background-color: #eae7dc;
+}
 
     /* navbar style */ 
 .navbar-brand {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900; 
+    color: #9B9DBF;
     }
 
     /* jumbotron style */ 
 .jumbotron {
-    background-color: #222222;
+    background-color: #9B9DBF;
 }
 
 .display-4 {
@@ -16,15 +22,21 @@
     color: white;
 }
 
-    /* paragraph style */ 
- .p {
-    color: #222222;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 200;
-}
 
     /* footer button style */ 
+footer{
+    justify-content: center;
+}
+
 .btn {
-    background-color: #222222;
-    border-color: #222222;
+    background-color: #d8c3a5;
+    border-color: #d8c3a5;
+}
+
+a,
+p,
+button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: #222222;
 }
